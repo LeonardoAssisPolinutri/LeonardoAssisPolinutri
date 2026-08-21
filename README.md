@@ -16,7 +16,7 @@ Me chamo Leonardo Roberto de Assis, tenho 29 anos e sou natural de São Paulo. S
         <img 
             alt="Polinutri" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoAssisPolinutri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoAssisPolinutri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Polinutri&logoColor=white"
         />
     </a>
 </p>
