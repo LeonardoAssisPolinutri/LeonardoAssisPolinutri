@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leonardo Roberto de Assis, tenho 29 anos e sou natural de São Paulo. Sou formado no curso de Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi. Sou apaixonado por tecnologia e atuo no desenvolvimento de sistemas internos, integrações com ERP e automações.
+Me chamo Leonardo Roberto de Assis, tenho 29 anos e sou natural de São Paulo. Sou formado no curso de Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi. Sou apaixonado por tecnologia e atuo no desenvolvimento de sistemas, integrações com ERP e automações.
 
 <p align="left">
     <a href="https://github.com/LeonardoAssisPolinutri?tab=repositories&sort=stargazers">
