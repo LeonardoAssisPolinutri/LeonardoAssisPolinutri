@@ -17,4 +17,4 @@ Atuo com Python, Flask, FastAPI, Oracle DB, integração com ERP Senior Sapiens 
 - `ocr_laudo_materia_prima` — análise de laudos por OCR
 - `Api_consulta_receita` — consulta de regime tributário via CNPJ
 
-## 📍 São Paulo, SP — Polinutri Alimentos S.A.
+## 📍 São Paulo, SP — Polinutri Alimentos S.A."# LeonardoAssisPolinutri" 
